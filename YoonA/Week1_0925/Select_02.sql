@@ -1,4 +1,4 @@
-/* 역순 정렬하기 */
+-- 역순 정렬하기
 
 SELECT NAME, DATETIME
 FROM ANIMAL_INS
