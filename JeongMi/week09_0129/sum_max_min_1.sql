@@ -1,0 +1,3 @@
+-- SUM, MAX, MIN: 가장 비싼 상품 구하기(Lv.1)
+SELECT MAX(PRICE) as MAX_PRICE
+FROM PRODUCT;
