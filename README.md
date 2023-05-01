@@ -1,5 +1,5 @@
 # Database Study
-Programmers - SQL 고득점 Kit  
+Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
   
 Member: YoonA, JeongMi  
 Start: 2022.09.25.일  
