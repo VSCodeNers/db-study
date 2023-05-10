@@ -1,10 +1,16 @@
-# Database Study
-Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
+# ✍🏻 Database Study
+in Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
   
-Member: YoonA, JeongMi  
 Start: 2022.09.25.일  
+
+### 👩🏻‍💻 Members
+| 조정미 | 허윤아 |                                                                                                               
+| :---: | :---: |
+| <img width="200px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/101046600?v=4" /> |
+|  [@jung0115](https://github.com/jung0115)  | [@yoona1110n](https://github.com/yoona1110)  |
+| 경상대학교 컴퓨터과학과 20학번 | 한림대학교 빅데이터학과 20학번 |
   
-### 주차별 문제
+### ❓ 주차별 문제
 1주차 - SELECT: 모든 레코드 조회하기(Lv.1), 역순 정렬하기(Lv.1)  
 2주차 - SELECT: 과일로 만든 아이스크림 고르기(Lv.1), 12세 이하인 여자 환자 목록 출력하기(Lv.1)  
 3주차 - SELECT: 흉부외과 또는 일반외과 의사 목록 출력하기(Lv.1), 강원도에 위치한 생산공장 목록 출력하기(Lv.1)  
