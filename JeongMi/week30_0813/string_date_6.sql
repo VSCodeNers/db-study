@@ -1,0 +1,6 @@
+-- String, Date: 이름에 el이 들어가는 동물 찾기(Lv.2)
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE NAME LIKE '%el%'
+    AND ANIMAL_TYPE LIKE 'Dog'
+ORDER BY NAME;
