@@ -3,7 +3,14 @@ in Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/chal
   
 Language: SQL  
 Start: 2022.09.25.일  
-
+  
+- SELECT
+- SUM, MAX, MIN
+- GROUP BY
+- IS NULL
+- JOIN
+- String, Date
+  
 ### 👩🏻‍💻 Members
 | 조정미 | 허윤아 |                                                                                                               
 | :---: | :---: |
