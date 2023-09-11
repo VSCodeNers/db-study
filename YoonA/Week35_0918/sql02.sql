@@ -1,0 +1,11 @@
+-- 우유와 요거트가 담긴 장바구니
+
+SELECT CART_ID 
+FROM CART_PRODUCTS
+WHERE NAME LIKE 'Milk' AND
+    CART_ID IN (
+        SELECT DISTINCT CART_ID
+        FROM CART_PRODUCTS
+        WHERE NAME LIKE 'Yogurt'
+    )
+ORDER BY CART_ID
