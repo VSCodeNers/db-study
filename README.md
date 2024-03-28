@@ -2,7 +2,7 @@
 in Programmers - [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
   
 Language: SQL  
-Start: 2022.09.25.일 ~ 2023.09.17.일  
+Period: 2022.09.25.일 ~ 2023.09.17.일  
   
 ### 👩🏻‍💻 Members
 | 조정미 | 허윤아 |                                                                                                               
